@@ -3,9 +3,6 @@
 #include <stdio.h>
 #include <string.h>
 
-// Get int key
-// Shift letters in plaintext by the number in the key
-
 int main(int argc, string argv[])
 {
     // Validate argument vector for argument. If none, tell user.
